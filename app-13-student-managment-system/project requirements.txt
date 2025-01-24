@@ -1,0 +1,6 @@
+- view ( id, name, course, phone)
+- insert record
+- update record
+- delete record
+- search for a record
+- sort records
